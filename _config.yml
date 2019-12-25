@@ -10,8 +10,8 @@ copyright: '&copy; 2015-2016 Smart Material Theme'
 markdown: kramdown
 
 # Custom theme could be generated at: https://getmdl.io/customize/index.html
-material_theme: blue-deep_orange
+material_theme: blue-indigo
 
 # Google Analytics account ID (UA-XXXXXXXX-X)
 
-google-analytics-ua: UA-84475574-1
+google-analytics-ua: UA-111428441-3

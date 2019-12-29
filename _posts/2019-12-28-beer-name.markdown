@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Beer Name"
-categories: Beer Style
+categories: beer-style
 image: beer.jpg
 description: Style and ABV
 ---
